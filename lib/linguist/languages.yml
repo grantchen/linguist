@@ -163,6 +163,7 @@ Bro:
 
 C:
   type: programming
+  ace_mode: c_cpp
   color: "#555"
   primary_extension: .c
   extensions:
