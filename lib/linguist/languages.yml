@@ -605,6 +605,7 @@ HTTP:
 
 Haml:
   group: HTML
+  ace_mode: haml
   type: markup
   primary_extension: .haml
   extensions:
